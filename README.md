@@ -7,7 +7,7 @@
 ## Latihan
 # Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
 Perhatikan Soal Berikut
-![Soal](isi%20foto/soal%20latihan.png)
+![soal latihan](https://user-images.githubusercontent.com/73011940/100855482-cd6e8380-34bc-11eb-9e95-57862bfa0af9.PNG))
 
 dan ini hasil dari source code diatas 
 ```python
@@ -53,13 +53,13 @@ print("   Hasil : lambda s: "".join(set(s)))")
 Disini saya sudah rubah ke lambda Kalau di Tugas Latihan tidak ada outputnya, tp disini saya akan berikan contoh untuk output dari source code tersebut
 Berikut outputnya
 
-![hasil](isi%20foto/hasil%20latihan.png)
+![hasillatihan png](https://user-images.githubusercontent.com/73011940/100855581-e8d98e80-34bc-11eb-98f4-929201c89d62.png)
  * Dalam Hasil INPUTAN Diatas Ialah hasil dari proses lambda
  
  ## Tugas Praktikum
  * Selain tugas latihan yang diberikan oleh dosen, saya juga diberi tugas praktikum oleh Dosen. Yaitu membuat progam sederhana menggunakan fungsi. Yang menampilkan Data Mahasiswa.  
 
- ![hasil](isi%20foto/Soal%20praktikum.png)
+![Soal praktikum (1)](https://user-images.githubusercontent.com/73011940/100855611-f0009c80-34bc-11eb-8e5b-5ab1a9e46f91.png)
  
 * Seperti biasa, setelah saya membaca serta memahami materi yang berikan oleh dosen dan mencari referensi tambahan dari Internet, akhirnya saya bisa mengerjakan tugas pertemuan 10 (Tugas Praktikum).
 
@@ -166,7 +166,7 @@ while True:
 Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya.
 Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 
-![hasil](isi%20foto/hasil%20menu.png)
+![hasilmenu png](https://user-images.githubusercontent.com/73011940/100855717-145c7900-34bd-11eb-8838-7b90478ea0df.png)
    
     Terdapat 5 Pilihan menu, yaitu :
 
@@ -179,25 +179,25 @@ Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 * Lihat Data Nilai Mahasiswa<br>
 System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Pilih Menu (1-2-3-4-5)
 Inilah tampilan fitur Lihat Data :
-![hasil](isi%20foto/lihat%20data.png)
-
+![lihatdata png](https://user-images.githubusercontent.com/73011940/100855788-2c33fd00-34bd-11eb-9d17-d6325d702560.png)
 * Menambahkan Data <br>
 
-![hasil](isi%20foto/tambah%20data%20.png)
+![tambahdata png](https://user-images.githubusercontent.com/73011940/100855835-39e98280-34bd-11eb-8181-c668bebae4ec.png)
 
 * ubah data <br> 
 Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah
 Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama rangga , Maka akan muncul tampilan seperti ini :
-![hasil](isi%20foto/ubah%20data.png)
+![ubahdata png](https://user-images.githubusercontent.com/73011940/100855893-4a016200-34bd-11eb-808a-6dc6b560c38f.png)
 
 * Fitur Hapus Data Nilai Mahasiswa <br>
 System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5)
 Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama rangga
 
-![hasil](isi%20foto/hapus%20data.png)
+![hapusdata png](https://user-images.githubusercontent.com/73011940/100855936-5685ba80-34bd-11eb-8b90-7553c4cd832d.png)
 
 ## FLOWCHART
 
 * Dan terakhir adalah Hasil Dari Flowchart 
 
-![flowchart](isi%20foto/flowchart.png)
+![flowchart](https://user-images.githubusercontent.com/73011940/100855958-5dacc880-34bd-11eb-80a5-6ed19281908c.png)
+
